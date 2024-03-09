@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Springfield",
+      "country": "United States of America (the)",
+      "date": "2023-06-07T10:20:03.000Z",
+      "emoji": "🇺🇸",
+      "notes": "test",
+      "position": {
+        "lat": 37.20572225041009,
+        "lng": -93.29658508300783
+      },
+      "id": 73930390
+    },
+    {
+      "cityName": "Jaipur",
+      "country": "India",
+      "date": "2023-10-23T10:22:07.168Z",
+      "emoji": "🇮🇳",
+      "notes": "xxx",
+      "position": {
+        "lat": 26.912273826625587,
+        "lng": 75.82763671875001
+      },
+      "id": 73930392
+    },
+    {
+      "cityName": "Daskroi",
+      "country": "India",
+      "date": "2023-10-25T15:15:25.992Z",
+      "emoji": "🇮🇳",
+      "notes": "",
+      "position": {
+        "lat": 23.01907618729305,
+        "lng": 72.67456054687501
+      },
+      "id": 73930394
+    },
+    {
+      "cityName": "Altdorf",
+      "country": "Switzerland",
+      "date": "2023-10-29T09:49:30.394Z",
+      "emoji": "🇨🇭",
+      "notes": "Mesmerizing",
+      "position": {
+        "lat": 46.88096303920319,
+        "lng": 8.641176223754885
+      },
+      "id": 73930395
+    }
+  ]
+}
